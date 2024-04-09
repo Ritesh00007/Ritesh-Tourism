@@ -1,2 +1,2 @@
-# Ritesh-Tourism
-Ritesh Tourism, focusing on providing an interactive and user-friendly platform for tourism enthusiasts.
+Url Link - https://github.com/Ritesh00007/Ritesh-Tourism.git
+Deployment link - https://ritesh00007.github.io/Ritesh-Tourism/
